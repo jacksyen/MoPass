@@ -21,3 +21,6 @@ Desktop.ini
 .settings/*
 .idea/*
 .buildpath
+
+# assets from twitter bower #
+components/
